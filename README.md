@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Remote Repositories
 
-You can use the [editor on GitHub](https://github.com/Haneenabudayeh/Remote-Repositories/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+in Git projects, you must interact with remote repositories and You can work with multiple repositories
+more privileges you can have read/write or read.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+when we will import a project into Git 1-first command $ cd test that allows us to switch the project dirctory
+1.-& get init by this steps we subdirectory that has the repo files
+1.tacking repo files by three steps a-$ get add *.c b-$git add lICENSE c-$ git commit -m “any message here”
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+some command you can use :
+1.Adding Remotes
+To create a new remote Git repository
 
-```markdown
-Syntax highlighted code block
+1.Fetching
 
-# Header 1
-## Header 2
-### Header 3
+1.Pushing
+To push your changes
 
-- Bulleted
-- List
+1.Renaming/Removing Remotes
+To rename a remote’s short name
 
-1. Numbered
-2. List
+1.Remove
+To remove a remote for whatever reason
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Haneenabudayeh/Remote-Repositories/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+                                          **Life Cycle of File Status**
+                                          
+![life cycle](https://git-scm.com/figures/18333fig0201-tn.png)
